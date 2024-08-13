@@ -1,0 +1,1 @@
+.warp{display:flex;align-items:center;flex-wrap:wrap;justify-content:space-around;padding:24px}.warp .card{display:flex;align-items:center;justify-content:center;border-radius:5px;box-shadow:0 1px 3px #0003;margin:8px}.warp .card:hover{box-shadow:0 2px 4px -1px #0003,0 4px 5px #00000024,0 1px 10px #0000001f}
