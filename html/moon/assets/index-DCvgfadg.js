@@ -1,1 +1,0 @@
-import{bh as r,bf as e,bB as o}from"./vendor-fW3smD4x.js";function d({style:s,onBack:n,children:t}){const a=r(),i=()=>{if(n){n();return}a(-1)};return e.jsxs("div",{style:{marginBottom:12,display:"flex",alignItems:"center",justifyContent:"space-between",padding:10,...s},children:[e.jsxs("span",{onClick:i,children:[e.jsx(o,{}),"点我返回"]}),t]})}export{d as H};
